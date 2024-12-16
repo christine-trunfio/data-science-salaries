@@ -1,8 +1,8 @@
 # data-science-salaries
-A training project work notebook analyzing a dataset on data science salaries using Python and data visualization tools.
+A training project work notebook analyzing a dataset on data science salaries using Python in a Jupyter Notebook and data visualization tools.
 
 ## Description
-This collaborative notebook is focused on the data analysis of salaries, using Python and tools like Pandas and Matplotlib.
+This collaborative notebook is focused on the data analysis of salaries, using Python and tools like Jupyter Notebook, Pandas and Matplotlib.
 
 ## Main functions
 - Data wrangling from the original dataset
